@@ -1,6 +1,13 @@
 ### Hello there <img src="./hello.gif" height="20px"> I'm Salman!<br/>but you can call me Sal your new Pal!
 
-🌱 I’m currently learning in the Lebanese University - Faculty of Technology.
+<img alt="Github Stats"
+     height="200px"
+     src="https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true">
+<img alt="Top Langs"
+     height="200px"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPancakes39&theme=github">
+
+🌱 I’m currently learning in the Lebanese University - Faculty of Technology
 
 📫 How to reach me: [salmannhassan39@gmail.com](mailto:salmannhassan39@gmail.com)
 
