@@ -1,11 +1,6 @@
 ### Hello there <img src="./hello.gif" height="20px"> I'm Salman!<br/>but you can call me Sal your new Pal!
 
-<img alt="Github Stats"
-     height="200px"
-     src="https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true">
-<img alt="Top Langs"
-     height="200px"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPancakes39&theme=github">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true)
 
 🌱 I’m currently learning in the Lebanese University - Faculty of Technology
 
@@ -17,6 +12,9 @@
 <a href="https://www.instagram.com/salmannhassan/" target="_blank">
   <img src="https://img.shields.io/badge/-INSTAGRAM-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile">
 </a>
+<p></p>
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPancakes39&theme=github)
 
 <!--
 **MrPancakes39/Mrpancakes39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
