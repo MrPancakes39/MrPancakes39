@@ -1,4 +1,4 @@
-### Hello there <img src="./hello.gif" height="20px"> I'm Salman!<br/>but you can call me Sal your new Pal!
+### Hello there <img src="./hello.gif" height="20px"> Nice to meet you!<br/>I'm Sal your new Pal! I'm a young aspiring developer✨
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true)
 
