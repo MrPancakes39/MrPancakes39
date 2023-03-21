@@ -6,7 +6,7 @@
 
 ### Reach out to me:
 
-[<img alt="MrPancakes39 | Mail" width="22px" src="https://cdn.simpleicons.org/maildotru/e87694" />](mailto:salmannhassan39@gmail.com)
+[<img alt="MrPancakes39 | Mail" width="22px" src="https://cdn.simpleicons.org/maildotru/e87694" />](mailto:mrpancakes39.qymxt@simplelogin.com)
 [<img alt="MrPancakes39 | LinkedIn Profile" width="22px" src="https://cdn.simpleicons.org/linkedin/e87694" />](https://www.linkedin.com/in/sal-hasan-00b1b4212/)
 [<img alt="MrPancakes39 | GitHub Profile" width="22px" src="https://cdn.simpleicons.org/github/e87694" />](https://github.com/MrPancakes39/)
 
