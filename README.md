@@ -7,7 +7,6 @@
 ### Reach out to me:
 
 [<img alt="MrPancakes39 | Mail" width="22px" src="https://cdn.simpleicons.org/maildotru/e87694" />](mailto:mrpancakes39.qymxt@simplelogin.com)
-[<img alt="MrPancakes39 | LinkedIn Profile" width="22px" src="https://cdn.simpleicons.org/linkedin/e87694" />](https://www.linkedin.com/in/sal-hasan-00b1b4212/)
 [<img alt="MrPancakes39 | GitHub Profile" width="22px" src="https://cdn.simpleicons.org/github/e87694" />](https://github.com/MrPancakes39/)
 
 ### Languages and Tools:
@@ -31,4 +30,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true)
 
 <!-- Leftovers:
+[<img alt="MrPancakes39 | LinkedIn Profile" width="22px" src="https://cdn.simpleicons.org/linkedin/e87694" />](https://www.linkedin.com/in/sal-hasan-00b1b4212/)
 [<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/) -->
