@@ -13,6 +13,7 @@
 
 [<img alt="Desmos" width="26px" src="https://www.desmos.com/favicon.ico" />](https://www.desmos.com/)
 [<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
+[<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [<img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
 [<img alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">](https://www.rust-lang.org/)
@@ -31,4 +32,4 @@
 
 <!-- Leftovers:
 [<img alt="MrPancakes39 | LinkedIn Profile" width="22px" src="https://cdn.simpleicons.org/linkedin/e87694" />](https://www.linkedin.com/in/sal-hasan-00b1b4212/)
-[<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/) -->
+-->
