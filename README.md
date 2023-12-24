@@ -2,33 +2,48 @@
 
 ### I'm a Student and a young aspiring developer! ✨
 
-- I'm currently working on [Desmos Offline Mode](https://github.com/MrPancakes39/Desmos-Offline-Mode/)
+- I'm currently working on [Desmos Offline Mode](https://github.com/MrPancakes39/Desmos-Offline-Mode/).
 
-### Reach out to me:
+<h2 align="center">Stats & Contact Info</h2>
+<br/>
+<div align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
+  <br/>
+  <a href="mailto:mrpancakes39.qymxt@simplelogin.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Mail-%232C3454?style=for-the-badge&logo=gmail&logoColor=white" alt="MrPancakes39 | Mail"/>
+  </a>
+  <a href="https://github.com/MrPancakes39" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-%232C3454?style=for-the-badge&logo=github&logoColor=white" alt="MrPancakes39 | GitHub Profile"/>
+  </a>
+</div>
 
-[<img alt="MrPancakes39 | Mail" width="22px" src="https://cdn.simpleicons.org/maildotru/e87694" />](mailto:mrpancakes39.qymxt@simplelogin.com)
-[<img alt="MrPancakes39 | GitHub Profile" width="22px" src="https://cdn.simpleicons.org/github/e87694" />](https://github.com/MrPancakes39/)
+<h2 align="center">Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,neovim,stackoverflow,matlab,octave" />
+    <img alt="Desmos" src="https://www.desmos.com/favicon.ico"/>
+    <img src="https://skillicons.dev/icons?i=bots"/>
+</div>
 
-### Languages and Tools:
+<h2 align="center">Languages & Frameworks</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,electron,django,vite" /><br>
+  <img src="https://skillicons.dev/icons?i=python,rust,c,cs,bash,md,regex,latex">
+</div>
 
-[<img alt="Desmos" width="26px" src="https://www.desmos.com/favicon.ico" />](https://www.desmos.com/)
-[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
-[<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
-[<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-[<img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
-[<img alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">](https://www.rust-lang.org/)
-[<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">](https://www.linuxfoundation.org/)
-[<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">](https://git-scm.com/)
-[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">](https://github.com/)
-[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML/)
-[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">](https://developer.mozilla.org/en-US/docs/Web/CSS/)
-[<img alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://react.dev/)
-[<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org/)
-[<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)
+<h2 align="center">Libraries & APIs</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=jquery,d3,express,postman,processing,pytorch" />
+</div>
 
-### Stats:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MrPancakes39&count_private=true&show_icons=true&include_all_commits=true)
+<h2 align="center">Databases & DevOps</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" /> <br>
+    <img src="https://skillicons.dev/icons?i=jest,vercel,heroku,replit,remix" />
+</div>
 
 <!-- Leftovers:
 [<img alt="MrPancakes39 | LinkedIn Profile" width="22px" src="https://cdn.simpleicons.org/linkedin/e87694" />](https://www.linkedin.com/in/sal-hasan-00b1b4212/)
